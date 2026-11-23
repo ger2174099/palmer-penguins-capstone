@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/penguins.csv
+*.parquet
+*.xlsx
+*.zip
+.DS_Store
