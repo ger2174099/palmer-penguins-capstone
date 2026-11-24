@@ -15,7 +15,7 @@ Kristen Gorman and the Palmer Station Long-Term Ecological Research program coll
 1. Clone the repository or extract the ZIP. Open a terminal or Anaconda Prompt in the project root, where this README is located.
 2. Use Python 3.12. To create a separate environment with Anaconda, run `conda create -n penguins-capstone python=3.12`, then `conda activate penguins-capstone`.
 3. Install packages with `python -m pip install -r requirements.txt`.
-4. Start JupyterLab with `python -m jupyterlab`. Open [notebooks/penguin_analysis.ipynb](notebooks/penguin_analysis.ipynb), select the Python kernel for that environment, and choose **Kernel → Restart Kernel and Run All Cells**.
+4. Start JupyterLab with `python -m jupyterlab`. Open [notebooks/analysis.ipynb](notebooks/analysis.ipynb), select the Python kernel for that environment, and choose **Kernel → Restart Kernel and Run All Cells**.
 5. The CSV is included. The notebook regenerates three PNGs in [output/figures](output/figures). To review the original project commits, run `git log --oneline --reverse` in the project root.
 
 ## Key findings
